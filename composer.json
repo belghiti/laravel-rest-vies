@@ -28,5 +28,10 @@
         "Vies": "Belghiti\\Vies\\Laravel\\ViesFacade"
       }
     }
+  },
+  "config": {
+    "allow-plugins": {
+      "pestphp/pest-plugin": true
+    }
   }
 }
