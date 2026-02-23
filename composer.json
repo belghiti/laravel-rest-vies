@@ -5,7 +5,7 @@
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Belghiti\\\\Vies\\\\Laravel\\\\": "src/"
+      "Belghiti\\Vies\\Laravel\\": "src/"
     }
   },
   "require": {
@@ -22,10 +22,10 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Belghiti\\\\Vies\\\\Laravel\\\\ViesServiceProvider"
+        "Belghiti\\Vies\\Laravel\\ViesServiceProvider"
       ],
       "aliases": {
-        "Vies": "Belghiti\\\\Vies\\\\Laravel\\\\ViesFacade"
+        "Vies": "Belghiti\\Vies\\Laravel\\ViesFacade"
       }
     }
   }
