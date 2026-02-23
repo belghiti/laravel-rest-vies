@@ -5,13 +5,13 @@
 [![Packagist](https://img.shields.io/packagist/v/belghiti/laravel-rest-vies.svg)](https://packagist.org/packages/belghiti/laravel-rest-vies)
 [![Downloads](https://img.shields.io/packagist/dt/belghiti/laravel-rest-vies.svg)](https://packagist.org/packages/belghiti/laravel-rest-vies)
 
-Laravel 12 integration for **VIES**: Service Provider + Facade + Validation Rule + Cache decorator. It wires the core `belghiti/vies-client` with retry and Laravel Cache.
+Laravel integration for **VIES**: Service Provider + Facade + Validation Rule + Cache decorator. It wires the core `belghiti/vies-client` with retry and Laravel Cache.
 
 ---
 
 ## Requirements
 
-- **Laravel 12.x**
+- **Laravel 11.x or 12.x**
 - PHP **8.2 – 8.5**
 
 ## Installation
