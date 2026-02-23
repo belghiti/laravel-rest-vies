@@ -1,5 +1,4 @@
 <?php
-<?php
 use Belghiti\Vies\Laravel\ViesServiceProvider;
 use Belghiti\Vies\Client\ViesClientInterface;
 
