@@ -1,1 +1,1 @@
-# belghiti/laravel-vies
+# belghiti/laravel-rest-vies

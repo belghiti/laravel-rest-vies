@@ -1,5 +1,5 @@
 {
-  "name": "belghiti/laravel-vies",
+  "name": "belghiti/laravel-rest-vies",
   "description": "Laravel 12 integration for belghiti/vies-client (Belghiti\\Vies).",
   "type": "library",
   "license": "MIT",
